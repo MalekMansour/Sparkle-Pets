@@ -7,3 +7,4 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Added Pause Button Placeholder.
 * Added Wardrobe Button Placeholder.
 * Added Furniture Button Placeholder.
+* Added Food Button Placeholder.
