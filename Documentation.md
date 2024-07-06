@@ -7,6 +7,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Added Profile Picture Placeholder.
 * Created Font Folder.
 * Downloaded Bebas Neue Font.
+* Created Bebas Neue Font Asset.
 
 ## 2024-07-04
 * Resolution Raised.
