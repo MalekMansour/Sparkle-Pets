@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Added Gems Placeholder.
 * Added Coins Placeholder.
 * Added Food Placeholder.
+* Added Profile Picture Placeholder.
 
 ## 2024-07-04
 * Resolution Raised.
