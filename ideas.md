@@ -17,3 +17,4 @@ Sparkle Pets is a free Unity steam game where you can buy pets, level them up an
 ## Game Menu
 * Pause
 * Furniture
+* Food
