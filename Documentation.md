@@ -3,6 +3,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 ## 2024-07-07
 * Added Gems Placeholder.
 * Added Coins Placeholder.
+* Added Food Placeholder.
 
 ## 2024-07-04
 * Resolution Raised.
