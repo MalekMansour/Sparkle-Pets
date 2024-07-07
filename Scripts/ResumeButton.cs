@@ -3,8 +3,8 @@ using UnityEngine.UI;
 
 public class ResumeButton : MonoBehaviour
 {
-    public GameObject pauseMenu; // Reference to the pause menu panel
-    public Button resumeButton;  // Reference to the resume button
+    public GameObject pauseMenu; 
+    public Button resumeButton;  
 
     void Start()
     {
@@ -26,10 +26,10 @@ public class ResumeButton : MonoBehaviour
     {
         if (pauseMenu != null)
         {
-            pauseMenu.SetActive(false); // Hide the pause menu
+            pauseMenu.SetActive(false); 
         }
 
-        Time.timeScale = 1f; // Resume the game
+        Time.timeScale = 1f; 
     }
 }
 
