@@ -3,6 +3,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 ## 2024-07-08
 * Created Resume Button.
 * ResumeButton Script Created.
+* PauseButton Script Updated.
 
 ## 2024-07-07
 * Added Gems Placeholder.
