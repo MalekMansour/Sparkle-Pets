@@ -3,10 +3,10 @@ using UnityEngine.UI;
 
 public class PauseButton : MonoBehaviour
 {
-    public GameObject pauseMenu; // Reference to the pause menu panel
-    public Button pauseButton;   // Reference to the pause button
+    public GameObject pauseMenu; 
+    public Button pauseButton;   
 
-    private bool isPaused = false; // Track the pause state
+    private bool isPaused = false; 
 
     void Start()
     {
@@ -26,20 +26,20 @@ public class PauseButton : MonoBehaviour
 
     void TogglePauseMenu()
     {
-        isPaused = !isPaused; // Toggle the pause state
+        isPaused = !isPaused; 
 
         if (pauseMenu != null)
         {
-            pauseMenu.SetActive(isPaused); // Show or hide the pause menu
+            pauseMenu.SetActive(isPaused); 
         }
 
         if (isPaused)
         {
-            Time.timeScale = 0f; // Pause the game
+            Time.timeScale = 0f; 
         }
         else
         {
-            Time.timeScale = 1f; // Resume the game
+            Time.timeScale = 1f; 
         }
     }
 }
