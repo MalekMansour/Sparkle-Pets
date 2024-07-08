@@ -3,10 +3,10 @@ using UnityEngine.UI;
 
 public class PauseButton : MonoBehaviour
 {
-    public GameObject pauseMenu; 
-    public Button pauseButton;   
-
-    private bool isPaused = false; 
+    public GameObject pauseMenu;   
+    public GameObject settingsMenu; 
+    public Button pauseButton;      
+    private bool isPaused = false;  
 
     void Start()
     {
@@ -18,7 +18,7 @@ public class PauseButton : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape))
+        if (Input.GetKeyDown(KeyCode.Escape) && !settingsMenu.activeSelf)
         {
             TogglePauseMenu();
         }
@@ -26,21 +26,17 @@ public class PauseButton : MonoBehaviour
 
     void TogglePauseMenu()
     {
-        isPaused = !isPaused; 
-
-        if (pauseMenu != null)
+        if (pauseMenu != null && !pauseMenu.activeSelf)
         {
-            pauseMenu.SetActive(isPaused); 
-        }
-
-        if (isPaused)
-        {
+            isPaused = true;
+            pauseMenu.SetActive(true);
             Time.timeScale = 0f; 
         }
-        else
+        else if (pauseMenu != null && pauseMenu.activeSelf)
         {
+            isPaused = false;
+            pauseMenu.SetActive(false);
             Time.timeScale = 1f; 
         }
     }
 }
-
