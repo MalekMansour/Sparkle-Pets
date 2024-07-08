@@ -3,9 +3,9 @@ using UnityEngine.UI;
 
 public class BackButton : MonoBehaviour
 {
-    public GameObject pauseMenu;    // Reference to the pause menu panel
-    public GameObject settingsMenu; // Reference to the settings menu panel
-    public Button backButton;       // Reference to the back button
+    public GameObject pauseMenu;    
+    public GameObject settingsMenu; 
+    public Button backButton;      
 
     void Start()
     {
@@ -19,9 +19,8 @@ public class BackButton : MonoBehaviour
     {
         if (pauseMenu != null && settingsMenu != null)
         {
-            settingsMenu.SetActive(false); // Hide the settings menu
-            pauseMenu.SetActive(true);     // Show the pause menu
+            settingsMenu.SetActive(false);
+            pauseMenu.SetActive(true);     
         }
     }
 }
-
