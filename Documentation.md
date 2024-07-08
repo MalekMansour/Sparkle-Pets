@@ -8,6 +8,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * ResumeButton Script Updated.
 * PauseButton Script Updated.
 * SettingsButton Script Updated.
+* BackButton Script Updated.
 
 ## 2024-07-08
 * Created Resume Button.
