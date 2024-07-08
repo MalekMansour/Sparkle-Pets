@@ -4,7 +4,7 @@ using UnityEngine.UI;
 public class ResumeButton : MonoBehaviour
 {
     public GameObject pauseMenu; 
-    public Button resumeButton;  
+    public Button resumeButton; 
 
     void Start()
     {
@@ -32,4 +32,3 @@ public class ResumeButton : MonoBehaviour
         Time.timeScale = 1f; 
     }
 }
-
