@@ -1,5 +1,7 @@
 This file will be used to keep track of the progress made in Sparkle Pets.
 
+### BREAK DUE TO INJURY
+
 ## 2024-07-09
 * Settings Menu Created.
 * SettingsButton Script Created.
