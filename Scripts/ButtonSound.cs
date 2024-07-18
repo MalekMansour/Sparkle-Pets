@@ -3,8 +3,8 @@ using UnityEngine.UI;
 
 public class ButtonSound : MonoBehaviour
 {
-    public AudioSource audioSource; // Reference to the AudioSource component
-    public AudioClip buttonSound;   // Reference to the button sound clip
+    public AudioSource audioSource;
+    public AudioClip buttonSound;   
 
     void Start()
     {
