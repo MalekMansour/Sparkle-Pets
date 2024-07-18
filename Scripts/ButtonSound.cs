@@ -8,10 +8,8 @@ public class ButtonSound : MonoBehaviour
 
     void Start()
     {
-        // Find all buttons in the scene
         Button[] buttons = FindObjectsOfType<Button>();
 
-        // Add the PlaySound method to each button's onClick event
         foreach (Button button in buttons)
         {
             button.onClick.AddListener(PlaySound);
@@ -26,4 +24,3 @@ public class ButtonSound : MonoBehaviour
         }
     }
 }
-
