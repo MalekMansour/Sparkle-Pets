@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Quit Button Created.
 * Sound Folder Created.
 * Button_Click Sound Added.
+* ButtonSound Script Created.
 
 ## 2024-07-09
 * Settings Menu Created.
