@@ -8,6 +8,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Furniture Icon Image Added.
 * Food Icon Image Added.
 * Changed Button Pressed Opacity to 150.
+* Added Backs to Buttons.
 
 ## 2024-07-18
 * Quit Button Created.
