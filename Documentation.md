@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Button Folder Created.
 * Changed Button Color to E7A89C.
 * Pause Icon Image Added.
+* Wardrobe Icon Image Added.
 
 ## 2024-07-18
 * Quit Button Created.
