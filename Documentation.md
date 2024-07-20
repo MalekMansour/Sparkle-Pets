@@ -1,5 +1,8 @@
 This file will be used to keep track of the progress made in Sparkle Pets.
 
+## 2024-07-20
+* Button Folder Created.
+
 ## 2024-07-18
 * Quit Button Created.
 * Sound Folder Created.
