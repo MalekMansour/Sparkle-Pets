@@ -6,6 +6,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Pause Icon Image Added.
 * Wardrobe Icon Image Added.
 * Furniture Icon Image Added.
+* Food Icon Image Added.
 
 ## 2024-07-18
 * Quit Button Created.
