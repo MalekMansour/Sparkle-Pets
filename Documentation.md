@@ -1,5 +1,8 @@
 This file will be used to keep track of the progress made in Sparkle Pets.
 
+## 2024-07-21
+* Resolution Setting Added.
+
 ## 2024-07-20
 * Button Folder Created.
 * Changed Button Color to E7A89C.
