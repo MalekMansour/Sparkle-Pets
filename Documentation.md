@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Resolution Setting Added.
 * Assets Folder Created.
 * Quality Settings Added.
+* Music Volume Settings Added.
 
 ## 2024-07-20
 * Button Folder Created.
