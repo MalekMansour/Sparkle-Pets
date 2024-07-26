@@ -7,6 +7,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Added Ticks to Sliders bars for Quality.
 * VolumeSlider Script Created.
 * MainMusic Object Created.
+* VolumeSlider Script added to Music Setting.
 
 ## 2024-07-21
 * Resolution Setting Added.
