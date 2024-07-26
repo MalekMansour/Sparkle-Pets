@@ -1,5 +1,8 @@
 This file will be used to keep track of the progress made in Sparkle Pets.
 
+## 2024-07-26
+* Music Folder Created.
+
 ## 2024-07-21
 * Resolution Setting Added.
 * Quality Settings Added.
