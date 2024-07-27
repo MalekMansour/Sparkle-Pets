@@ -13,6 +13,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Fullscreen Button created.
 * Changed all button colours to F8E6E6.
 * Changed Pressed Button Opacity from 150 to 255.
+* VolumeSlider Script Updated.
 
 ## 2024-07-26
 * Music Folder Created.
