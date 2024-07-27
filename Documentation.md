@@ -11,6 +11,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Added value above the handle of the quality slider.
 * FullscreenToggle Script Created.
 * Fullscreen Button created.
+* Changed all button colours to F8E6E6.
 
 ## 2024-07-26
 * Music Folder Created.
