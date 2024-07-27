@@ -9,7 +9,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * QualitySlider Script Created.
 * QualitySlider Script Updated.
 * Added value above the handle of the quality slider.
-* FullscreenToggle Script Created.
+* FullscreenButton Script Created.
 * Fullscreen Button created.
 * Changed all button colours to F8E6E6.
 * Changed Pressed Button Opacity from 150 to 255.
