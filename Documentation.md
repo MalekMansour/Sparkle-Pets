@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * ResolutionSlider Script Created.
 * Added value above the handle of the resolution slider.
 * ResolutionSlider Script Updated.
+* New Resolutions Created.
 
 ## 2024-07-26
 * Music Folder Created.
