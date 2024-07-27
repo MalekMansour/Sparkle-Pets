@@ -4,8 +4,8 @@ using TMPro;
 
 public class ResolutionSlider : MonoBehaviour
 {
-    public Slider resolutionSlider;
-    public TextMeshProUGUI resolutionText; 
+    public Slider resolutionSlider; // Reference to the slider
+    public TextMeshProUGUI resolutionText; // Reference to the TextMeshPro text element
 
     private readonly string[] resolutions = new string[]
     {
@@ -26,8 +26,9 @@ public class ResolutionSlider : MonoBehaviour
             resolutionSlider.minValue = 1;
             resolutionSlider.maxValue = resolutions.Length;
             resolutionSlider.wholeNumbers = true;
+            resolutionSlider.value = resolutions.Length; // Set to highest value
             resolutionSlider.onValueChanged.AddListener(UpdateResolutionText);
-            UpdateResolutionText(resolutionSlider.value); 
+            UpdateResolutionText(resolutionSlider.value); // Initialize the text
         }
     }
 
@@ -37,6 +38,10 @@ public class ResolutionSlider : MonoBehaviour
         if (resolutionText != null && index >= 0 && index < resolutions.Length)
         {
             resolutionText.text = resolutions[index];
+            string[] res = resolutions[index].Split('x');
+            int width = int.Parse(res[0]);
+            int height = int.Parse(res[1]);
+            Screen.SetResolution(width, height, Screen.fullScreen);
         }
     }
 }
