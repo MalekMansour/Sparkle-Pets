@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * PageOpener Script Updated.
 * Food Page Created.
 * Background Placeholder for Food Page Created.
+* Adjusted size of Food Page.
 
 ## 2024-07-28
 * Downloaded Zeyada Font.
