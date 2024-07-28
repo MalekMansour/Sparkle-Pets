@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Downloaded Zeyada Font.
 * Created Zeyada Font Asset.
 * Created Empty Object for Pages.
+* Created Furniture Page.
 
 ## 2024-07-27
 * ResolutionSlider Script Created.
