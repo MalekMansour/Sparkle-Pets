@@ -3,24 +3,24 @@ using UnityEngine.UI;
 
 public class BackButton : MonoBehaviour
 {
-    public GameObject pauseMenu;    
-    public GameObject settingsMenu; 
-    public Button backButton;      
+    public GameObject targetMenu; // The menu or page to go back to
+    public GameObject currentMenu; // The current menu or page to deactivate
+    public Button backButton;      // The back button
 
     void Start()
     {
         if (backButton != null)
         {
-            backButton.onClick.AddListener(BackToPauseMenu);
+            backButton.onClick.AddListener(GoBackToTargetMenu);
         }
     }
 
-    void BackToPauseMenu()
+    void GoBackToTargetMenu()
     {
-        if (pauseMenu != null && settingsMenu != null)
+        if (currentMenu != null && targetMenu != null)
         {
-            settingsMenu.SetActive(false);
-            pauseMenu.SetActive(true);     
+            currentMenu.SetActive(false);
+            targetMenu.SetActive(true);     
         }
     }
 }
