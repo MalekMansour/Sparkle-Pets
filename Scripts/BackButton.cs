@@ -3,9 +3,9 @@ using UnityEngine.UI;
 
 public class BackButton : MonoBehaviour
 {
-    public GameObject targetMenu; // The menu or page to go back to
-    public GameObject currentMenu; // The current menu or page to deactivate
-    public Button backButton;      // The back button
+    public GameObject targetMenu; 
+    public GameObject currentMenu; 
+    public Button backButton;      
 
     void Start()
     {
