@@ -14,6 +14,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * BackButton Script Updated.
 * Created Settings Folder.
 * PageOpener Script Created.
+* Fixed Minor Bugs.
 
 ## 2024-07-27
 * ResolutionSlider Script Created.
