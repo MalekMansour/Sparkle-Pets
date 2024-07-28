@@ -7,6 +7,8 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Created Furniture Page.
 * Created Back Button PlaceHolder for Furniture Page.
 * Created Storage Button PlaceHolder for Furniture Page.
+* Created Wallpaper Button PlaceHolder for Furniture Page.
+* 
 
 ## 2024-07-27
 * ResolutionSlider Script Created.
