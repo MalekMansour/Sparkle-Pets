@@ -57,4 +57,5 @@ Sparkle Pets is a free Unity steam game where you can buy pets, level them up an
 * Premium Pet Food: 30$
 * Salmon: 40$
 * Deluxe Pet Food: 50$
+* Special Pet Treats: 100 Gems
 
