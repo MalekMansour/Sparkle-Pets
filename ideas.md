@@ -8,8 +8,8 @@ Sparkle Pets is a free Unity steam game where you can buy pets, level them up an
 * Exit
 
 ## Currency
-* Sparkle Coins
-* Sparkle Gems
+* Money (Coins)
+* Gems
 
 ## Gameplay
 * Pet the Pet
