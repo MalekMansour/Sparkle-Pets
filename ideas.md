@@ -65,3 +65,5 @@ Most will cost gems.
 * Deluxe Pet Food: 50$
 * Special Pet Treats: 100 Gems
 
+## Shower Pet Game
+
