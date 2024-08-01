@@ -66,4 +66,5 @@ Most will cost gems.
 * Special Pet Treats: 100 Gems
 
 ## Shower Pet Game
+Press spacebar on the green spot game. Dont let the water be too hot or too cold.
 
