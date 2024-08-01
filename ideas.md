@@ -68,3 +68,4 @@ Most will cost gems.
 ## Shower Pet Game
 Press spacebar on the green spot game. Dont let the water be too hot or too cold.
 
+## Cut Pet Nails Game
