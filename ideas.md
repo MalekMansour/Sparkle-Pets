@@ -69,3 +69,4 @@ Most will cost gems.
 Press spacebar on the green spot game. Dont let the water be too hot or too cold.
 
 ## Cut Pet Nails Game
+with the mouse, cut a straight line from the pet's nails without hurting him while his paws move around the screen.
