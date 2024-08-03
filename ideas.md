@@ -69,4 +69,7 @@ Most will cost gems.
 Press spacebar (or mouse button) on the green spot game. Dont let the water be too hot or too cold.
 
 ## Cut Pet Nails Game
-with the mouse, cut a straight line from the pet's nails without hurting him while his paws move around the screen.
+With the mouse, cut a straight line from the pet's nails without hurting him while his paws move around the screen.
+
+## Drop Ball Game
+The ball drops where the user chooses and it drops down to one of the holes.
