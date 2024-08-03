@@ -66,7 +66,7 @@ Most will cost gems.
 * Special Pet Treats: 100 Gems
 
 ## Shower Pet Game
-Press spacebar on the green spot game. Dont let the water be too hot or too cold.
+Press spacebar (or mouse button) on the green spot game. Dont let the water be too hot or too cold.
 
 ## Cut Pet Nails Game
 with the mouse, cut a straight line from the pet's nails without hurting him while his paws move around the screen.
