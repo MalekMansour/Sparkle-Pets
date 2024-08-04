@@ -75,3 +75,4 @@ With the mouse, cut a straight line from the pet's nails without hurting him whi
 The ball drops where the user chooses and it drops down to one of the holes.
 
 ## Memory Game
+Cards with cat pictures, get two together back to back and try to win as many points as possible in this card memory game.
