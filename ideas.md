@@ -21,7 +21,6 @@ Sparkle Pets is a free Unity steam game where you can buy pets, level them up an
 * Play Minigames
 1. Drop Ball
 2. Memory Game
-3. 
 
 ## Game Menu
 * Pause
@@ -74,3 +73,5 @@ With the mouse, cut a straight line from the pet's nails without hurting him whi
 
 ## Drop Ball Game
 The ball drops where the user chooses and it drops down to one of the holes.
+
+## Memory Game
