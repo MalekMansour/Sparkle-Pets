@@ -3,7 +3,6 @@ Sparkle Pets is a free Unity steam game where you can buy pets, level them up an
 The game name might change to something else.
 Word Ideas: Pet, Cat, Paw, Animal.
 
-
 ## Main Menu:
 * Load Game
 * New Game
@@ -62,7 +61,7 @@ Most will cost gems.
 ## Food Shop
 * Basic Pet Food: 10$
 * Tuna: 15$
-* Chicken: 25$
+* Fish: 25$
 * Premium Pet Food: 30$
 * Salmon: 40$
 * Deluxe Pet Food: 50$
