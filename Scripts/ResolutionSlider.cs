@@ -26,9 +26,9 @@ public class ResolutionSlider : MonoBehaviour
             resolutionSlider.minValue = 1;
             resolutionSlider.maxValue = resolutions.Length;
             resolutionSlider.wholeNumbers = true;
-            resolutionSlider.value = resolutions.Length; // Set to highest value
+            resolutionSlider.value = resolutions.Length; 
             resolutionSlider.onValueChanged.AddListener(UpdateResolutionText);
-            UpdateResolutionText(resolutionSlider.value); // Initialize the text
+            UpdateResolutionText(resolutionSlider.value);
         }
     }
 
