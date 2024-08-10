@@ -4,8 +4,8 @@ using TMPro;
 
 public class ResolutionSlider : MonoBehaviour
 {
-    public Slider resolutionSlider; // Reference to the slider
-    public TextMeshProUGUI resolutionText; // Reference to the TextMeshPro text element
+    public Slider resolutionSlider; 
+    public TextMeshProUGUI resolutionText; 
 
     private readonly string[] resolutions = new string[]
     {
