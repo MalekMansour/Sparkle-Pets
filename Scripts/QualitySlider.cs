@@ -5,7 +5,7 @@ using TMPro;
 public class QualitySlider : MonoBehaviour
 {
     public Slider qualitySlider; 
-    public TextMeshProUGUI qualityText; // Reference to the TextMeshPro text element
+    public TextMeshProUGUI qualityText; 
 
     private readonly string[] qualityLevels = new string[]
     {
