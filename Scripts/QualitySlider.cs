@@ -24,9 +24,9 @@ public class QualitySlider : MonoBehaviour
             qualitySlider.minValue = 1;
             qualitySlider.maxValue = qualityLevels.Length;
             qualitySlider.wholeNumbers = true;
-            qualitySlider.value = qualityLevels.Length; // Set to highest value
+            qualitySlider.value = qualityLevels.Length; 
             qualitySlider.onValueChanged.AddListener(UpdateQualityText);
-            UpdateQualityText(qualitySlider.value); // Initialize the text
+            UpdateQualityText(qualitySlider.value);
         }
     }
 
