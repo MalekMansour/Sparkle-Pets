@@ -2,7 +2,7 @@
 Sparkle Pets is a free Unity steam game where you can buy pets, level them up and get more in-game currency. 
 The game itself might be free but there will be in game currency such as gems and coins that you can buy (maybe).
 The game name might change to something else.
-Word Ideas: Pet, Cat, Paw, Animal.
+Word Ideas: Pet, Cat, Paw, Animal, Heart, Love, Sparkle.
 
 ## Main Menu:
 * Load Game
