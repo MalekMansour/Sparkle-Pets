@@ -81,4 +81,4 @@ The ball drops where the user chooses and it drops down to one of the holes. Eac
 Cards with cat pictures, get two together back to back and try to win as many points as possible in this card memory game. The game gets played alone.
 
 ## Petting cat game
-Click on different parts of your cats body to pet him.
+Click on different parts of your cats body to pet him. He will like to be touched in some parts, and some parts he will dislike them.
