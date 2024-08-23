@@ -8,6 +8,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Bed Icon Added.
 * Back Button Icon Added.
 * Food Icon Added.
+* Shop Icons Size Changed.
 
 ## 2024-07-29
 * PageOpener Script Updated.
