@@ -4,6 +4,7 @@ This file will be used to keep track of the progress made in Sparkle Pets.
 * Gems Icon Added.
 * Coins Icon Added.
 * Floors Icon Added.
+* Wallpapers Icon Added.
 
 ## 2024-07-29
 * PageOpener Script Updated.
